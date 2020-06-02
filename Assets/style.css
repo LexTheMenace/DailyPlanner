@@ -66,9 +66,8 @@ textarea{
   border-bottom-right-radius: 15px;
   background-color: #06AED5;
   color: white;
-  /* background: url(Assets/floppy1.svg); */
   background-repeat: no-repeat;
-
+  max-width: 100px;
 }
 
 .saveBtn i:hover {
