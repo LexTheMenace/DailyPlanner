@@ -2,7 +2,7 @@
 Work Day Planner
 
 ## LINKS
-https://lexthemenace.github.io/DailyPlanner/
+https://lexthemenace.github.io/DailyPlanner/  return
 https://github.com/LexTheMenace/DailyPlanner
 
 ## IMAGES
