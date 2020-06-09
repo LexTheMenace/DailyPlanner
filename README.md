@@ -1,6 +1,10 @@
 # DailyPlanner
 Work Day Planner
 
+## LINKS
+https://lexthemenace.github.io/DailyPlanner/
+https://github.com/LexTheMenace/DailyPlanner
+
 ## IMAGES
 ![CODE QUIZ SCREENSHOT](https://github.com/LexTheMenace/DailyPlanner/blob/master/Assets/Screenshot%20(84).png)
 
